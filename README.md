@@ -1,1 +1,1 @@
-# PROG2
+# PROG2 (1. ročník BC, letný semester)
