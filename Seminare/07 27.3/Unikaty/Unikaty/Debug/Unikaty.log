@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\seminare\07 27.3\unikaty\unikaty\source.c(54): warning C4090: 'function': different 'const' qualifiers
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\seminare\07 27.3\unikaty\unikaty\source.c(54): warning C4028: formal parameter 1 different from declaration
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\seminare\07 27.3\unikaty\unikaty\source.c(54): warning C4028: formal parameter 2 different from declaration

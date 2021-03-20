@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\cvičenia\zadanie 08\zadanie 08\main.c(23): error C2065: 'length_t': undeclared identifier
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\cvičenia\zadanie 08\zadanie 08\main.c(23): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\cvičenia\zadanie 08\zadanie 08\main.c(23): warning C4024: 'split': different types for formal and actual parameter 3
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\cvičenia\zadanie 08\zadanie 08\main.c(25): error C2065: 'length_t': undeclared identifier

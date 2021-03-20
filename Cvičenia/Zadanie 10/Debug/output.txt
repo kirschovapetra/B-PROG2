@@ -1,0 +1,17 @@
+KONIEC: 2.5.2018 10:13
+
+Vitaz = hrac PLAYER2
+
+Zostavajuca armada hraca: PLAYER2
+Meno:Roman Zivoty:1 Attack:4 Defence:6
+
+
+ Celkovo sa odohralo 39 kol
+
+Hrac 1 liecil svojich bojovnikov 0-krat 
+
+Hrac 2 liecil svojich bojovnikov 2-krat 
+
+Hrac 1 zasiahol 7-krat a minul 10-krat
+
+Hrac 2 zasiahol 10-krat a minul 10-krat

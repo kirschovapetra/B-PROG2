@@ -1,0 +1,10 @@
+﻿  Source.c
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\seminare\09 10.4\03 retazce\03 retazce\source.c(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\seminare\09 10.4\03 retazce\03 retazce\source.c(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\seminare\09 10.4\03 retazce\03 retazce\source.c(166): warning C4018: '<': signed/unsigned mismatch
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\seminare\09 10.4\03 retazce\03 retazce\source.c(180): warning C4018: '<': signed/unsigned mismatch
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\seminare\09 10.4\03 retazce\03 retazce\source.c(194): warning C4566: character represented by universal-character-name '\u00A3' cannot be represented in the current code page (1250)
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\seminare\09 10.4\03 retazce\03 retazce\source.c(204): warning C4013: 'alpha' undefined; assuming extern returning int
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\seminare\09 10.4\03 retazce\03 retazce\source.c(207): warning C4018: '<': signed/unsigned mismatch
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\seminare\09 10.4\03 retazce\03 retazce\source.c(174): warning C4716: 'f15': must return a value
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\seminare\09 10.4\03 retazce\03 retazce\source.c(188): warning C4716: 'f16': must return a value

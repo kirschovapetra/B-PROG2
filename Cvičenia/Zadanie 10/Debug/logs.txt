@@ -1,0 +1,1028 @@
+START: 2.5.2018 10:10
+
+*************************************************************
+
+KOLO 1:
+Utocil hrac PLAYER2, vybral si bojovnika Fero
+Branil sa hrac PLAYER1, vybral si bojovnika Karol
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER2 po 1 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:5 Attack:1 Defence:3
+Meno:Petra Zivoty:5 Attack:1 Defence:3
+Meno:Fero Zivoty:2 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 1 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:5 Attack:1 Defence:3
+Meno:Adam Zivoty:5 Attack:2 Defence:2
+Meno:Karol Zivoty:5 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 2:
+Utocil hrac PLAYER1, vybral si bojovnika Karol
+Branil sa hrac PLAYER2, vybral si bojovnika Fero
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER1 po 2 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:5 Attack:1 Defence:3
+Meno:Adam Zivoty:5 Attack:2 Defence:2
+Meno:Karol Zivoty:4 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 2 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:5 Attack:1 Defence:3
+Meno:Petra Zivoty:5 Attack:1 Defence:3
+Meno:Fero Zivoty:2 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 3:
+Utocil hrac PLAYER2, vybral si bojovnika Fero
+Branil sa hrac PLAYER1, vybral si bojovnika Karol
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER2 po 3 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:5 Attack:1 Defence:3
+Meno:Petra Zivoty:5 Attack:1 Defence:3
+Meno:Fero Zivoty:2 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 3 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:5 Attack:1 Defence:3
+Meno:Adam Zivoty:5 Attack:2 Defence:2
+Meno:Karol Zivoty:2 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 4:
+Utocil hrac PLAYER2, vybral si bojovnika Fero
+Branil sa hrac PLAYER1, vybral si bojovnika Karol
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER2 po 4 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:5 Attack:1 Defence:3
+Meno:Petra Zivoty:5 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 4 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:5 Attack:1 Defence:3
+Meno:Adam Zivoty:5 Attack:2 Defence:2
+Meno:Karol Zivoty:2 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 5:
+Utocil hrac PLAYER1, vybral si bojovnika Karol
+Branil sa hrac PLAYER2, vybral si bojovnika Petra
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER1 po 5 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:5 Attack:1 Defence:3
+Meno:Adam Zivoty:5 Attack:2 Defence:2
+Meno:Karol Zivoty:1 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 5 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:5 Attack:1 Defence:3
+Meno:Petra Zivoty:5 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 6:
+Utocil hrac PLAYER2, vybral si bojovnika Petra
+Branil sa hrac PLAYER1, vybral si bojovnika Karol
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER2 po 6 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:5 Attack:1 Defence:3
+Meno:Petra Zivoty:5 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 6 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:5 Attack:1 Defence:3
+Meno:Adam Zivoty:5 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 7:
+Utocil hrac PLAYER2, vybral si bojovnika Petra
+Branil sa hrac PLAYER1, vybral si bojovnika Adam
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER2 po 7 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:5 Attack:1 Defence:3
+Meno:Petra Zivoty:3 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 7 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:5 Attack:1 Defence:3
+Meno:Adam Zivoty:5 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 8:
+Utocil hrac PLAYER1, vybral si bojovnika Adam
+Branil sa hrac PLAYER2, vybral si bojovnika Petra
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER1 po 8 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:5 Attack:1 Defence:3
+Meno:Adam Zivoty:5 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 8 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:5 Attack:1 Defence:3
+Meno:Petra Zivoty:1 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 9:
+Utocil hrac PLAYER1, vybral si bojovnika Adam
+Branil sa hrac PLAYER2, vybral si bojovnika Petra
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER1 po 9 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:5 Attack:1 Defence:3
+Meno:Adam Zivoty:2 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 9 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:5 Attack:1 Defence:3
+Meno:Petra Zivoty:1 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 10:
+Utocil hrac PLAYER2, vybral si bojovnika Petra
+Branil sa hrac PLAYER1, vybral si bojovnika Adam
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER2 po 10 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:5 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 10 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:5 Attack:1 Defence:3
+Meno:Adam Zivoty:2 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 11:
+Utocil hrac PLAYER1, vybral si bojovnika Adam
+Branil sa hrac PLAYER2, vybral si bojovnika Tomas
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER1 po 11 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:5 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 11 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:5 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 12:
+Utocil hrac PLAYER2, vybral si bojovnika Tomas
+Branil sa hrac PLAYER1, vybral si bojovnika Mikulas
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER2 po 12 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:3 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 12 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:5 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 13:
+Utocil hrac PLAYER1, vybral si bojovnika Mikulas
+Branil sa hrac PLAYER2, vybral si bojovnika Tomas
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER1 po 13 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:3 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 13 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:3 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 14:
+Utocil hrac PLAYER2, vybral si bojovnika Tomas
+Branil sa hrac PLAYER1, vybral si bojovnika Mikulas
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER2 po 14 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:2 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 14 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:3 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 15:
+Utocil hrac PLAYER1, vybral si bojovnika Mikulas
+Branil sa hrac PLAYER2, vybral si bojovnika Tomas
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER1 po 15 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:3 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 15 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 16:
+Utocil hrac PLAYER1, vybral si bojovnika Mikulas
+Branil sa hrac PLAYER2, vybral si bojovnika Pavol
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER1 po 16 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:1 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 16 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 17:
+Utocil hrac PLAYER2, vybral si bojovnika Pavol
+Branil sa hrac PLAYER1, vybral si bojovnika Mikulas
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER2 po 17 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 17 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 18:
+Utocil hrac PLAYER2, vybral si bojovnika Pavol
+Branil sa hrac PLAYER1, vybral si bojovnika Karolina
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER2 po 18 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:1 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 18 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 19:
+Utocil hrac PLAYER1, vybral si bojovnika Karolina
+Branil sa hrac PLAYER2, vybral si bojovnika Pavol
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER1 po 19 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:2 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 19 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:1 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 20:
+Utocil hrac PLAYER2, vybral si bojovnika Pavol
+Branil sa hrac PLAYER1, vybral si bojovnika Karolina
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER2 po 20 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:1 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 20 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:1 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 21:
+Utocil hrac PLAYER2, vybral si bojovnika Pavol
+Branil sa hrac PLAYER1, vybral si bojovnika Karolina
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER2 po 21 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 21 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:1 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 22:
+Utocil hrac PLAYER1, vybral si bojovnika Karolina
+Branil sa hrac PLAYER2, vybral si bojovnika Lukas
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER1 po 22 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 22 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 23:
+Utocil hrac PLAYER2, vybral si bojovnika Lukas
+Branil sa hrac PLAYER1, vybral si bojovnika Milan
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER2 po 23 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 23 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 24:
+Utocil hrac PLAYER1, vybral si bojovnika Milan
+Branil sa hrac PLAYER2, vybral si bojovnika Veronika
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER1 po 24 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 24 kole:
+Meno:Roman Zivoty:5 Attack:4 Defence:6
+Meno:Veronika Zivoty:2 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 27:
+Utocil hrac PLAYER1, vybral si bojovnika Milan
+Branil sa hrac PLAYER2, vybral si bojovnika Lukas
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER1 po 27 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 27 kole:
+Meno:Roman Zivoty:3 Attack:4 Defence:6
+Meno:Veronika Zivoty:2 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 28:
+Utocil hrac PLAYER1, vybral si bojovnika Milan
+Branil sa hrac PLAYER2, vybral si bojovnika Veronika
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER1 po 28 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:4 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 28 kole:
+Meno:Roman Zivoty:3 Attack:4 Defence:6
+Meno:Veronika Zivoty:2 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 29:
+Utocil hrac PLAYER2, vybral si bojovnika Veronika
+Branil sa hrac PLAYER1, vybral si bojovnika Peter
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER2 po 29 kole:
+Meno:Roman Zivoty:3 Attack:4 Defence:6
+Meno:Veronika Zivoty:2 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 29 kole:
+Meno:Peter Zivoty:2 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:4 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 30:
+Utocil hrac PLAYER2, vybral si bojovnika Veronika
+Branil sa hrac PLAYER1, vybral si bojovnika Peter
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER2 po 30 kole:
+Meno:Roman Zivoty:3 Attack:4 Defence:6
+Meno:Veronika Zivoty:2 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 30 kole:
+Meno:Peter Zivoty:0 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:4 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 31:
+Utocil hrac PLAYER2, vybral si bojovnika Veronika
+Branil sa hrac PLAYER1, vybral si bojovnika Dusan
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER2 po 31 kole:
+Meno:Roman Zivoty:3 Attack:4 Defence:6
+Meno:Veronika Zivoty:2 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 31 kole:
+Meno:Peter Zivoty:0 Attack:9 Defence:1
+Meno:Dusan Zivoty:3 Attack:5 Defence:3
+Meno:Milan Zivoty:4 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 32:
+Utocil hrac PLAYER2, vybral si bojovnika Veronika
+Branil sa hrac PLAYER1, vybral si bojovnika Dusan
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER2 po 32 kole:
+Meno:Roman Zivoty:3 Attack:4 Defence:6
+Meno:Veronika Zivoty:2 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 32 kole:
+Meno:Peter Zivoty:0 Attack:9 Defence:1
+Meno:Dusan Zivoty:2 Attack:5 Defence:3
+Meno:Milan Zivoty:4 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 33:
+Utocil hrac PLAYER2, vybral si bojovnika Veronika
+Branil sa hrac PLAYER1, vybral si bojovnika Dusan
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER2 po 33 kole:
+Meno:Roman Zivoty:3 Attack:4 Defence:6
+Meno:Veronika Zivoty:1 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 33 kole:
+Meno:Peter Zivoty:0 Attack:9 Defence:1
+Meno:Dusan Zivoty:2 Attack:5 Defence:3
+Meno:Milan Zivoty:4 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 34:
+Utocil hrac PLAYER1, vybral si bojovnika Dusan
+Branil sa hrac PLAYER2, vybral si bojovnika Veronika
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER1 po 34 kole:
+Meno:Peter Zivoty:0 Attack:9 Defence:1
+Meno:Dusan Zivoty:2 Attack:5 Defence:3
+Meno:Milan Zivoty:4 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 34 kole:
+Meno:Roman Zivoty:3 Attack:4 Defence:6
+Meno:Veronika Zivoty:0 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 35:
+Utocil hrac PLAYER1, vybral si bojovnika Dusan
+Branil sa hrac PLAYER2, vybral si bojovnika Roman
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER1 po 35 kole:
+Meno:Peter Zivoty:0 Attack:9 Defence:1
+Meno:Dusan Zivoty:2 Attack:5 Defence:3
+Meno:Milan Zivoty:4 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 35 kole:
+Meno:Roman Zivoty:2 Attack:4 Defence:6
+Meno:Veronika Zivoty:0 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 36:
+Utocil hrac PLAYER1, vybral si bojovnika Dusan
+Branil sa hrac PLAYER2, vybral si bojovnika Roman
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER1 po 36 kole:
+Meno:Peter Zivoty:0 Attack:9 Defence:1
+Meno:Dusan Zivoty:2 Attack:5 Defence:3
+Meno:Milan Zivoty:4 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 36 kole:
+Meno:Roman Zivoty:1 Attack:4 Defence:6
+Meno:Veronika Zivoty:0 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 37:
+Utocil hrac PLAYER1, vybral si bojovnika Dusan
+Branil sa hrac PLAYER2, vybral si bojovnika Roman
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER1 po 37 kole:
+Meno:Peter Zivoty:0 Attack:9 Defence:1
+Meno:Dusan Zivoty:0 Attack:5 Defence:3
+Meno:Milan Zivoty:4 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 37 kole:
+Meno:Roman Zivoty:1 Attack:4 Defence:6
+Meno:Veronika Zivoty:0 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+*************************************************************
+
+KOLO 38:
+Utocil hrac PLAYER2, vybral si bojovnika Roman
+Branil sa hrac PLAYER1, vybral si bojovnika Milan
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER2 po 38 kole:
+Meno:Roman Zivoty:1 Attack:4 Defence:6
+Meno:Veronika Zivoty:0 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 38 kole:
+Meno:Peter Zivoty:0 Attack:9 Defence:1
+Meno:Dusan Zivoty:0 Attack:5 Defence:3
+Meno:Milan Zivoty:2 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+
+*************************************************************
+
+KOLO 39:
+Utocil hrac PLAYER2, vybral si bojovnika Roman
+Branil sa hrac PLAYER1, vybral si bojovnika Milan
+Suboj vyhral hrac PLAYER2
+
+
+Armada hraca PLAYER2 po 39 kole:
+Meno:Roman Zivoty:1 Attack:4 Defence:6
+Meno:Veronika Zivoty:0 Attack:4 Defence:4
+Meno:Lukas Zivoty:0 Attack:2 Defence:4
+Meno:Pavol Zivoty:0 Attack:3 Defence:3
+Meno:Tomas Zivoty:0 Attack:1 Defence:3
+Meno:Petra Zivoty:0 Attack:1 Defence:3
+Meno:Fero Zivoty:0 Attack:1 Defence:3
+
+
+Armada hraca PLAYER1 po 39 kole:
+Meno:Peter Zivoty:0 Attack:9 Defence:1
+Meno:Dusan Zivoty:0 Attack:5 Defence:3
+Meno:Milan Zivoty:0 Attack:4 Defence:2
+Meno:Karolina Zivoty:0 Attack:1 Defence:5
+Meno:Mikulas Zivoty:0 Attack:1 Defence:3
+Meno:Adam Zivoty:0 Attack:2 Defence:2
+Meno:Karol Zivoty:0 Attack:3 Defence:1
+START: 2.5.2018 10:14
+
+*************************************************************
+
+KOLO 1:
+Utocil hrac PLAYER1, vybral si bojovnika Peter
+Branil sa hrac PLAYER2, vybral si bojovnika Roman
+Suboj vyhral hrac PLAYER1
+
+
+Armada hraca PLAYER1 po 1 kole:
+Meno:Peter Zivoty:5 Attack:9 Defence:1
+Meno:Dusan Zivoty:5 Attack:5 Defence:3
+Meno:Milan Zivoty:5 Attack:4 Defence:2
+Meno:Karolina Zivoty:5 Attack:1 Defence:5
+Meno:Mikulas Zivoty:5 Attack:1 Defence:3
+Meno:Adam Zivoty:5 Attack:2 Defence:2
+Meno:Karol Zivoty:5 Attack:3 Defence:1
+
+
+Armada hraca PLAYER2 po 1 kole:
+Meno:Roman Zivoty:3 Attack:4 Defence:6
+Meno:Veronika Zivoty:5 Attack:4 Defence:4
+Meno:Lukas Zivoty:5 Attack:2 Defence:4
+Meno:Pavol Zivoty:5 Attack:3 Defence:3
+Meno:Tomas Zivoty:5 Attack:1 Defence:3
+Meno:Petra Zivoty:5 Attack:1 Defence:3
+Meno:Fero Zivoty:5 Attack:1 Defence:3

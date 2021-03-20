@@ -1,0 +1,4 @@
+﻿  actions.c
+c:\users\pepa\google drive\škola\vš\poznamky\bc1 let\programovanie2\cvičenia\zadanie 05\zadanie 05\actions.c(232): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Zadanie 05.vcxproj -> C:\Users\Pepa\Google Drive\Škola\VŠ\poznamky\bc1 let\programovanie2\Cvičenia\Zadanie 05\Debug\Zadanie 05.exe
+  Zadanie 05.vcxproj -> C:\Users\Pepa\Google Drive\Škola\VŠ\poznamky\bc1 let\programovanie2\Cvičenia\Zadanie 05\Debug\Zadanie 05.pdb (Full PDB)
